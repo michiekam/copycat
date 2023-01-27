@@ -11,6 +11,7 @@ Hello all! This 'copycat' creative coding tutorial is created as part of my zine
 <br>
 <p><strong>Screenshots</strong></p>
 <img src="/sketch_003_copycat_image_only/poster/poster1240.jpg" height="400px"/>
+<img src="/sketch_003_copycat_image_only/poster/poster1240.jpg" height="400px"/>
 <img src="/sketch_004_copycat_final_poster/poster/poster010.png" height="400px"/>
 
 
