@@ -7,7 +7,7 @@ Hello all! This 'copycat' creative coding tutorial is created as part of my zine
 <br>
 <p><strong>How to get started?</strong></p>
 <p>Download Processing at https://processing.org</p>
-<p>Download ZIP <>a href="https://github.com/michiekam/copycat/archive/refs/heads/main.zip">here</a> to get the codes and assets.</p>
+<p>Download ZIP here to get the codes and assets. https://github.com/michiekam/copycat/archive/refs/heads/main.zip</p>
 <br>
 <p><strong>Screenshots</strong></p>
 <img src="/sketch_003_copycat_image_only/poster/poster1240.jpg" height="400px"/>
