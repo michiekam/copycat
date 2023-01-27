@@ -10,9 +10,10 @@ Hello all! This 'copycat' creative coding tutorial is created as part of my zine
 <p>Download ZIP here to get the codes and assets.</p>
 <br>
 <p><strong>Screenshots</strong></p>
+<p>
+<iframe width="352" height="626" src="https://www.youtube.com/embed/fb9PaWpp_-s" title="'copycat' creative coding tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
 <img src="/sketch_003_copycat_image_only/poster/poster1240.jpg" height="400px"/>
 <img src="/sketch_004_copycat_final_poster/poster/poster010.png" height="400px"/>
 
-<p>
-https://youtube.com/shorts/fb9PaWpp_-s
-</p>
+
